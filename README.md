@@ -1,5 +1,5 @@
 - 👋 Olá, sou @miriaamaral
-- 🌱 Atualmente estou cursando o tecnólogo em Análise e Desenvolvimento de Sistemas e Front-end do Zero pela Ri Happy.
+- 🌱 Atualmente estou cursando o tecnólogo em Análise e Desenvolvimento de Sistemas pela Faculdade Metropolitana.
 - 📫 Como entrar em contato comigo: miriaamaralcustodio@gmail.com
 - 😄 Pronomes: ela/dela
 - ⚡ Curiosidade: Na área de tecnologia, sou uma iniciante curiosa, mas que ama estudar. 
