@@ -7,7 +7,7 @@
 
 <div>
 <a href="https://github.com/miriaamaral">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=miriaamaral&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=miriaamaral&theme=jolly&show_icons=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miriaamaral&layout=compact&langs_count=16&theme=jolly"/>
 </div>
 
@@ -32,5 +32,15 @@
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
+
+##
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=Jogo-de-Cartas-Yu-Gi-Oh-)](https://github.com/miriaamaral/Jogo-de-Cartas-Yu-Gi-Oh-)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=Criando-um-Jogo-do-Detona-Ralph-com-JavaScript)](https://github.com/miriaamaral/Criando-um-Jogo-do-Detona-Ralph-com-JavaScript)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=Landing-Page-Multiverso-Homem-Aranha)](https://github.com/miriaamaral/Landing-Page-Multiverso-Homem-Aranha)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=Landing-Page-Mundo-Invertido)](https://github.com/miriaamaral/Landing-Page-Mundo-Invertido)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=js-keyboard-virtual-zoo)](https://github.com/miriaamaral/js-keyboard-virtual-zoo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=Construindo-uma-Pokedex-com-JavaScript)](https://github.com/miriaamaral/Construindo-uma-Pokedex-com-JavaScript)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=jogo-da-Memoria)](https://github.com/miriaamaral/jogo-da-Memoria)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=Classificador-Nivel-de-Heroi)](https://github.com/miriaamaral/Classificador-Nivel-de-Heroi)
