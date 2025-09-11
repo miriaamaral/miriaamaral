@@ -39,7 +39,10 @@
 
 
 <div align="center">
+
   
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=angular-blog)](https://github.com/miriaamaral/angular-blog)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=Jogo-de-Cartas-Yu-Gi-Oh-)](https://github.com/miriaamaral/Jogo-de-Cartas-Yu-Gi-Oh-)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=Criando-um-Jogo-do-Detona-Ralph-com-JavaScript)](https://github.com/miriaamaral/Criando-um-Jogo-do-Detona-Ralph-com-JavaScript)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=Landing-Page-Multiverso-Homem-Aranha)](https://github.com/miriaamaral/Landing-Page-Multiverso-Homem-Aranha)
