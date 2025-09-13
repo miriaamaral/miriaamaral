@@ -50,6 +50,11 @@
 
 <br>
 
+
+
+
+<br>
+
 ### 🅰️ Projetos Angular & TypeScript
 <p>Projetos desenvolvidos com o framework Angular, utilizando TypeScript para uma arquitetura robusta e escalável no Frontend.</p>
 <div align="center">
@@ -120,6 +125,25 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=JS-Classificador-Nivel-Heroi&theme=jolly&show_owner=true" width="49.5%">
   </a>
 </div>
+
+
+<br><br>
+
+
+
+<p><b>👩🏻‍💻Meu Primeiro Grande Desafio: Portfólio Pessoal:</b> Uma Landing Page profissional e interativa, onde tive a oportunidade de consolidar e aplicar todos os meus conhecimentos em HTML, CSS e JavaScript. É a minha vitrine de projetos, com direito a tema claro/escuro e um design super responsivo!</p>
+<div align="center">
+
+  <a href="https://github.com/miriaamaral/landing-page-my-desafio" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=landing-page-my-desafio&theme=jolly&show_owner=true" width="49.5%">
+  </a>
+  <br>
+  <a href="https://miriaamaral.github.io/landing-page-my-desafio/" target="_blank" style="text-decoration: none; margin-left: 10px;">
+    <img src="https://img.shields.io/badge/Ver%20Online-Deploy-B18B77?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Landing Page Online">
+  </a>
+
+</div>
+
 
 <br><br><br>
 
