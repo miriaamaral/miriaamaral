@@ -55,8 +55,8 @@
 
 <br>
 
-### 🅰️ Projetos Angular & TypeScript
-<p>Projetos desenvolvidos com o framework Angular, utilizando TypeScript para uma arquitetura robusta e escalável no Frontend.</p>
+### 🅰️ Projeto Angular & TypeScript - Em Desenvolvimento
+<p>Este projeto está sendo desenvolvido com o framework Angular, utilizando TypeScript para uma arquitetura robusta e escalável no Frontend.</p>
 <div align="center">
   <a href="https://github.com/miriaamaral/angular-blog" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=angular-blog&theme=jolly&show_owner=true" width="49.5%">
@@ -115,6 +115,9 @@
 
 <p><b>📚 Livros/Estudos Autorais:</b> Materiais de estudo e projetos focados em lógica e algoritmos.</p>
 <div align="center">
+  <a href="https://github.com/miriaamaral/study-created-first-page" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=study-created-first-page&theme=jolly&show_owner=true" width="49.5%">
+  </a>
   <a href="https://github.com/miriaamaral/study-git-github" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=study-git-github&theme=jolly&show_owner=true" width="49.5%">
   </a>
