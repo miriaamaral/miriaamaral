@@ -89,9 +89,6 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/miriaamaral/desafio-minha-landing-page" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=desafio-minha-landing-page&theme=jolly&show_owner=true" width="49.5%">
-  </a>
   <a href="https://github.com/miriaamaral/Landing-Page-Multiverso-Homem-Aranha" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=Landing-Page-Multiverso-Homem-Aranha&theme=jolly&show_owner=true" width="49.5%">
   </a>
