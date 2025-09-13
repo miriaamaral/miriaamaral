@@ -44,12 +44,12 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=angular-blog)](https://github.com/miriaamaral/angular-blog)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=JS-Jogo-YuGiOh)](https://github.com/miriaamaral/JS-Jogo-YuGiOh)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=Criando-um-Jogo-do-Detona-Ralph-com-JavaScript)](https://github.com/miriaamaral/Criando-um-Jogo-do-Detona-Ralph-com-JavaScript)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=JS-Jogo-Detona-Ralph)](https://github.com/miriaamaral/JS-Jogo-Detona-Ralph)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=Landing-Page-Multiverso-Homem-Aranha)](https://github.com/miriaamaral/Landing-Page-Multiverso-Homem-Aranha)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=Landing-Page-Mundo-Invertido)](https://github.com/miriaamaral/Landing-Page-Mundo-Invertido)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=js-keyboard-virtual-zoo)](https://github.com/miriaamaral/js-keyboard-virtual-zoo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=JS-Pokedex)](https://github.com/miriaamaral/JS-Pokedex)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=jogo-da-Memoria)](https://github.com/miriaamaral/jogo-da-Memoria)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=JS-Jogo-da-Memoria)](https://github.com/miriaamaral/JS-Jogo-da-Memoria)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=Classificador-Nivel-de-Heroi)](https://github.com/miriaamaral/Classificador-Nivel-de-Heroi)
 
 </div>
