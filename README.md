@@ -50,7 +50,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=js-keyboard-virtual-zoo)](https://github.com/miriaamaral/js-keyboard-virtual-zoo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=JS-Pokedex)](https://github.com/miriaamaral/JS-Pokedex)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=JS-Jogo-da-Memoria)](https://github.com/miriaamaral/JS-Jogo-da-Memoria)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=Classificador-Nivel-de-Heroi)](https://github.com/miriaamaral/Classificador-Nivel-de-Heroi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=JS-Classificador-Nivel-Heroi)](https://github.com/miriaamaral/JS-Classificador-Nivel-Heroi)
 
 </div>
 
