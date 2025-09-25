@@ -55,11 +55,23 @@
 
 <br>
 
-### 🅰️ Projeto Angular & TypeScript - Em Desenvolvimento
+### 🅰️ Projeto Angular & TypeScript - Blog sendo aperfeiçoado
 <p>Este projeto está sendo desenvolvido com o framework Angular, utilizando TypeScript para uma arquitetura robusta e escalável no Frontend.</p>
 <div align="center">
   <a href="https://github.com/miriaamaral/angular-blog" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=angular-blog&theme=jolly&show_owner=true" width="49.5%">
+  </a>
+</div>
+
+<br><br>
+
+<br>
+
+### 💜📚 Projetos com Sass, SCSS e Boas Práticas
+<p>Projeto focado em mostrar como estruturo e estilizo uma página web de forma eficiente usando Sass (Syntacically Awesome Style Sheets).</p>
+<div align="center">
+  <a href="https://github.com/miriaamaral/cinema" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=cinema&theme=jolly&show_owner=true" width="49.5%">
   </a>
 </div>
 
