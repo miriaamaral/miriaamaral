@@ -68,16 +68,6 @@
 
 <br>
 
-### 💜📚 Projetos com Sass, SCSS e Boas Práticas
-<p>Projeto focado em mostrar como estruturo e estilizo uma página web de forma eficiente usando Sass (Syntacically Awesome Style Sheets).</p>
-<div align="center">
-  <a href="https://github.com/miriaamaral/cinema" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=cinema&theme=jolly&show_owner=true" width="49.5%">
-  </a>
-</div>
-
-<br><br>
-
 ### 💻 Projetos JavaScript Puro
 <p>Uma coleção de projetos que demonstram minhas habilidades com JavaScript puro, HTML e CSS, focando em lógica, interatividade e manipulação do DOM.</p>
 
