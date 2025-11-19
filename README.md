@@ -56,17 +56,20 @@
 
 <br>
 
-### 🅰️ Projeto Angular & TypeScript
+### 🅰️ Projetos com Angular & TypeScript
 <p>Estes projetos estão sendo desenvolvidos com o framework Angular, utilizando TypeScript para uma arquitetura robusta e escalável no Frontend.</p>
 
 <br>
 
 <div align="center">
-<p><b>👩🏻‍💻 :</b><p>
+<p><b>👩🏻‍💻 Angular & TypeScript:</b><p>
 
 <div align="center">
   <a href="https://github.com/miriaamaral/angular-blog" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=angular-blog&theme=jolly&show_owner=true" width="49.5%">
+  </a>
+  <a href="https://github.com/miriaamaral/angular-clone-BuzzFeed" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=angular-clone-BuzzFeed&theme=jolly&show_owner=true" width="49.5%">
   </a>
 </div>
 
