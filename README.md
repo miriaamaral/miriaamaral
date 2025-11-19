@@ -62,9 +62,6 @@
 <br>
 
 <div align="center">
-<p><b>👩🏻‍💻 Framework Angular com TypeScript e CSS:</b><p>
-
-<div align="center">
   <a href="https://github.com/miriaamaral/angular-blog" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=angular-blog&theme=jolly&show_owner=true" width="49.5%">
   </a>
