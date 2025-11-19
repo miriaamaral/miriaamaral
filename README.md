@@ -62,7 +62,7 @@
 <br>
 
 <div align="center">
-<p><b>👩🏻‍💻 Angular & TypeScript:</b><p>
+<p><b>👩🏻‍💻 Framework Angular com TypeScript e CSS:</b><p>
 
 <div align="center">
   <a href="https://github.com/miriaamaral/angular-blog" target="_blank">
