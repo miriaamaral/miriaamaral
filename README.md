@@ -27,134 +27,28 @@
 
 ---
 
-<div align="center">
-  <a href="https://github.com/miriaamaral">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miriaamaral&theme=jolly&show_icons=true&hide_title=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miriaamaral&layout=compact&langs_count=16&theme=jolly&hide_title=true"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/miriaamaralcs" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-F8C1D1?style=for-the-badge&logo=linkedin&logoColor=2E2F37" alt="Linkedin">
   </a>
-</div>
-
+  <a href="https://discord.com/channels/miriaamaralcustodiosantos" target="_blank">
+    <img src="https://img.shields.io/badge/DISCORD-F8C1D1?style=for-the-badge&logo=discord&logoColor=2E2F37" alt="Discord">
+  </a>
+  <a href="mailto:miriaamaralcs@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-F8C1D1?style=for-the-badge&logo=gmail&logoColor=2E2F37" alt="Gmail">
+  </a>
+</p>
 <br>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/miriaamaralcs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a>
-  <a href="https://discord.com/channels/miriaamaralcustodiosantos" target="_blank"><img src="https://img.shields.io/badge/Discord-pink?style=for-the-badge&logo=discord&logoColor=black" target="_blank"></a>
-  <a href="mailto:miriaamaralcs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-pink?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
-</div>
 
 <br><br>
 
-<div align="center">
-  <h2>Bora dar uma olhada nos projetos que me fizeram aprender e ir além! 👩🏻‍💻💜</h2>
-  <p>Explore abaixo alguns dos meus principais trabalhos, categorizados pelas tecnologias predominantes e pelo tipo de projeto.</p>
-</div>
+## 📊 Minhas estatísticas de programação (Últimos 7 dias)
 
 <br>
 
 
 
 
-<br>
-
-### 🅰️ Projetos com Angular & TypeScript
-<p>Estes projetos estão sendo desenvolvidos com o framework Angular, utilizando TypeScript para uma arquitetura robusta e escalável no Frontend.</p>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/miriaamaral/angular-blog" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=angular-blog&theme=jolly&show_owner=true" width="49.5%">
-  </a>
-  <a href="https://github.com/miriaamaral/angular-clone-BuzzFeed" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=angular-clone-BuzzFeed&theme=jolly&show_owner=true" width="49.5%">
-  </a>
-</div>
-
-<br><br>
-
-<br>
-
-### 💻 Projetos JavaScript Puro
-<p>Uma coleção de projetos que demonstram minhas habilidades com JavaScript puro, HTML e CSS, focando em lógica, interatividade e manipulação do DOM.</p>
-
-<br>
-
-<div align="center">
-<p><b>🎮 Jogos Interativos:</b> Desafie-se e veja minhas implementações de lógica de jogo com JavaScript puro!</p>
-<div align="center">
-  <a href="https://github.com/miriaamaral/JS-Jogo-Detona-Ralph" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=JS-Jogo-Detona-Ralph&theme=jolly&show_owner=true" width="49.5%">
-  </a>
-  <a href="https://github.com/miriaamaral/JS-Jogo-da-Memoria" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=JS-Jogo-da-Memoria&theme=jolly&show_owner=true" width="49.5%">
-  </a>
-  <a href="https://github.com/miriaamaral/JS-Jogo-YuGiOh" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=JS-Jogo-YuGiOh&theme=jolly&show_owner=true" width="49.5%">
-  </a>
-  <a href="https://github.com/miriaamaral/js-keyboard-virtual-zoo" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=js-keyboard-virtual-zoo&theme=jolly&show_owner=true" width="49.5%">
-  </a>
-</div>
-
-<br><br>
-
-<div align="center">
-  <p><b>🌐 Landing Pages & Web Design:</b> Foco em design responsivo e experiência de usuário com HTML e CSS.</p>
-</div>
-
-<div align="center">
-  <a href="https://github.com/miriaamaral/Landing-Page-Multiverso-Homem-Aranha" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=Landing-Page-Multiverso-Homem-Aranha&theme=jolly&show_owner=true" width="49.5%">
-  </a>
-  <a href="https://github.com/miriaamaral/Landing-Page-Mundo-Invertido" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=Landing-Page-Mundo-Invertido&theme=jolly&show_owner=true" width="49.5%">
-  </a>
-</div>
-
-<br><br>
-
-<p><b>⚡ Ferramentas & Utilidades:</b> Projetos que demonstram consumo de API e lógica funcional.</p>
-<div align="center">
-  <a href="https://github.com/miriaamaral/JS-Pokedex" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=JS-Pokedex&theme=jolly&show_owner=true" width="49.5%">
-  </a>
-</div>
-
-<br><br>
-
-<p><b>📚 Livros/Estudos Autorais:</b> Materiais de estudo e projetos focados em lógica e algoritmos.</p>
-<div align="center">
-  <a href="https://github.com/miriaamaral/study-created-first-page" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=study-created-first-page&theme=jolly&show_owner=true" width="49.5%">
-  </a>
-  <a href="https://github.com/miriaamaral/study-git-github" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=study-git-github&theme=jolly&show_owner=true" width="49.5%">
-  </a>
-  <a href="https://github.com/miriaamaral/study-branches" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=study-branches&theme=jolly&show_owner=true" width="49.5%">
-  </a>
-  <a href="https://github.com/miriaamaral/JS-Classificador-Nivel-Heroi" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=JS-Classificador-Nivel-Heroi&theme=jolly&show_owner=true" width="49.5%">
-  </a>
-</div>
-
-
-<br><br>
-
-
-
-<p><b>👩🏻‍💻Meu Primeiro Grande Desafio: Portfólio Pessoal:</b> Uma Landing Page profissional e interativa, onde tive a oportunidade de consolidar e aplicar todos os meus conhecimentos em HTML, CSS e JavaScript. É a minha vitrine de projetos, com direito a tema claro/escuro e um design super responsivo!</p>
-<div align="center">
-
-  <a href="https://github.com/miriaamaral/landing-page-my-desafio" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=miriaamaral&repo=landing-page-my-desafio&theme=jolly&show_owner=true" width="49.5%">
-  </a>
-  <br>
-  <a href="https://miriaamaral.github.io/landing-page-my-desafio/" target="_blank" style="text-decoration: none; margin-left: 10px;">
-    <img src="https://img.shields.io/badge/Ver%20Online-Deploy-B18B77?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Landing Page Online">
-  </a>
-
-</div>
 
 
 <br><br><br>
