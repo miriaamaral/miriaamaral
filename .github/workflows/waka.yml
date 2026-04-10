@@ -1,0 +1,23 @@
+name: Waka Readme
+
+on:
+  schedule:
+    # Roda todo dia à meia-noite (horário UTC)
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Permite que você rode manualmente para testar
+
+jobs:
+  update-readme:
+    name: Update README with WakaTime stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          BLOCKS: █▓▒░ # Estilo da barra de progresso
+          TIME_RANGE: last_7_days
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          LANG_COUNT: 10
