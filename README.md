@@ -38,21 +38,12 @@
     <img src="https://img.shields.io/badge/GMAIL-F8C1D1?style=for-the-badge&logo=gmail&logoColor=2E2F37" alt="Gmail">
   </a>
 </p>
-<br>
 
-<br><br>
+<br>
 
 ## 📊 Minhas estatísticas de programação (Últimos 7 dias)
 
-<br>
-
-
-
-
-
-
 <br><br><br>
-
 
 <div align="center">
   <h3>Minhas Contribuições Recentes</h3>
