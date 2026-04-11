@@ -41,7 +41,13 @@
 
 <br>
 
-## 📊 Minhas estatísticas de programação (Últimos 7 dias)
+## 📊 Minhas estatísticas de programação
+
+<p align="center">
+  <a href="https://wakatime.com/@b6bf66da-1a78-434c-8b13-05a1812bd893">
+    <img src="https://wakatime.com/badge/user/b6bf66da-1a78-434c-8b13-05a1812bd893.svg?style=for-the-badge&color=F8C1D1" alt="Wakatime Badge" />
+  </a>
+</p>
 
 <br><br><br>
 
