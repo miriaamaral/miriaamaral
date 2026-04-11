@@ -44,13 +44,10 @@
 
 <div align="center">
   <h3>📊 Minhas estatísticas de programação</h3>
-</div>
-
-<p align="center">
   <a href="https://wakatime.com/@b6bf66da-1a78-434c-8b13-05a1812bd893">
     <img src="https://wakatime.com/badge/user/b6bf66da-1a78-434c-8b13-05a1812bd893.svg?style=for-the-badge&color=F8C1D1" alt="Wakatime Badge" />
   </a>
-</p>
+</div>
 
 <br>
 
@@ -68,19 +65,17 @@
 <div align="center">
   <h3>Conecte-se Comigo! 👋</h3>
   <p>Gostou dos meus projetos ou quer trocar uma ideia sobre Frontend, UI/UX e tecnologia?</p>
-  <p align="center">
-  <a href="https://www.linkedin.com/in/miriaamaralcs" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-F8C1D1?style=for-the-badge&logo=linkedin&logoColor=2E2F37" alt="Linkedin">
-  </a>
-  <a href="https://discord.com/channels/miriaamaralcustodiosantos" target="_blank">
-    <img src="https://img.shields.io/badge/DISCORD-F8C1D1?style=for-the-badge&logo=discord&logoColor=2E2F37" alt="Discord">
-  </a>
-  <a href="mailto:miriaamaralcs@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-F8C1D1?style=for-the-badge&logo=gmail&logoColor=2E2F37" alt="Gmail">
-  </a>
-</p>
-
-<br>
+  <p>
+    <a href="https://www.linkedin.com/in/miriaamaralcs" target="_blank">
+      <img src="https://img.shields.io/badge/LINKEDIN-F8C1D1?style=for-the-badge&logo=linkedin&logoColor=2E2F37" alt="Linkedin">
+    </a>
+    <a href="https://discord.com/channels/miriaamaralcustodiosantos" target="_blank">
+      <img src="https://img.shields.io/badge/DISCORD-F8C1D1?style=for-the-badge&logo=discord&logoColor=2E2F37" alt="Discord">
+    </a>
+    <a href="mailto:miriaamaralcs@gmail.com">
+      <img src="https://img.shields.io/badge/GMAIL-F8C1D1?style=for-the-badge&logo=linkedin&logoColor=2E2F37" alt="Gmail">
+    </a>
+  </p>
   <a href="https://www.linkedin.com/in/miriaamaralcs" target="_blank">
     <img src="https://img.shields.io/badge/DIO-pink?style=for-the-badge&logo=digitalocean&logoColor=black" alt="Meu Perfil na DIO">
   </a>
