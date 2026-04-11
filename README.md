@@ -52,16 +52,6 @@
   </a>
 </p>
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miriaamaral&show_icons=true&theme=radical&title_color=F8C1D1&icon_color=F8C1D1&text_color=ffffff&bg_color=08080C" alt="Github Stats" />
-  
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miriaamaral&layout=compact&langs_count=8&theme=radical&title_color=F8C1D1&text_color=ffffff&bg_color=08080C" alt="Top Langs" />
-</div>
-
 <br>
 
 <div align="center">
