@@ -26,24 +26,16 @@
 <p align="center">
   <strong>Minhas habilidades e ferramentas incluem:</strong>
 </p>
-
-<div align="center">
-  <img alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Sass" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img alt="Angular" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
-  <img alt="Figma" height="40" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
-  <img alt="Git" height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,angular,figma,git,gitlab" alt="Minhas Habilidades" />
+</p>
 
 ---
 
 <br>
 
 <div align="center">
-  <h3>📊 Minhas estatísticas de programação</h3>
+  <h3>📊 Minhas estatísticas de programação em tempo real nos últimos 7 dias</h3>
   <a href="https://wakatime.com/@b6bf66da-1a78-434c-8b13-05a1812bd893">
     <img src="https://wakatime.com/badge/user/b6bf66da-1a78-434c-8b13-05a1812bd893.svg?style=for-the-badge&color=F8C1D1" alt="Wakatime Badge" />
   </a>
@@ -68,13 +60,13 @@
   <p>
     <a href="https://www.linkedin.com/in/miriaamaralcs" target="_blank">
       <img src="https://img.shields.io/badge/LINKEDIN-F8C1D1?style=for-the-badge&logo=linkedin&logoColor=2E2F37" alt="Linkedin">
-    </a>
+    </a>&nbsp;&nbsp;&nbsp;
     <a href="https://discord.com/channels/miriaamaralcustodiosantos" target="_blank">
       <img src="https://img.shields.io/badge/DISCORD-F8C1D1?style=for-the-badge&logo=discord&logoColor=2E2F37" alt="Discord">
-    </a>
+    </a>&nbsp;&nbsp;&nbsp;
     <a href="mailto:miriaamaralcs@gmail.com">
       <img src="https://img.shields.io/badge/GMAIL-F8C1D1?style=for-the-badge&logo=linkedin&logoColor=2E2F37" alt="Gmail">
-    </a>
+    </a>&nbsp;&nbsp;&nbsp;
   </p>
   <a href="https://www.linkedin.com/in/miriaamaralcs" target="_blank">
     <img src="https://img.shields.io/badge/DIO-pink?style=for-the-badge&logo=digitalocean&logoColor=black" alt="Meu Perfil na DIO">
