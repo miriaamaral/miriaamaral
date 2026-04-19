@@ -35,13 +35,22 @@
 <br>
 
 <div align="center">
-  <h3>📊 Minhas estatísticas de programação em tempo real nos últimos 7 dias</h3>
+  <h3>📊 Minhas estatísticas de programação em tempo real (atualizações semanais)</h3>
   <a href="https://wakatime.com/@b6bf66da-1a78-434c-8b13-05a1812bd893">
     <img src="https://wakatime.com/badge/user/b6bf66da-1a78-434c-8b13-05a1812bd893.svg?style=for-the-badge&color=F8C1D1" alt="Wakatime Badge" />
   </a>
 </div>
 
 <br>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=miriaamaral&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miriaamaral&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
 
 <div align="center">
   <h3>🐍 Minhas Contribuições</h3>
